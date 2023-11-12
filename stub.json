@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Create a site using MERN that will allow me to upload pictures with tags, so that the tags can later be searched and different pictures will appear","md5":"37ca3c91640979bef2aed3a471b82971"}]}
